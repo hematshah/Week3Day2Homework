@@ -1,0 +1,5 @@
+C:\Users\Hemat Shah\Engineering45\week3\Day2\IComparable.Test\IComparable_01\bin\Debug\IComparable_01.dll
+C:\Users\Hemat Shah\Engineering45\week3\Day2\IComparable.Test\IComparable_01\bin\Debug\IComparable_01.pdb
+C:\Users\Hemat Shah\Engineering45\week3\Day2\IComparable.Test\IComparable_01\obj\Debug\IComparable_01.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week3\Day2\IComparable.Test\IComparable_01\obj\Debug\IComparable_01.dll
+C:\Users\Hemat Shah\Engineering45\week3\Day2\IComparable.Test\IComparable_01\obj\Debug\IComparable_01.pdb
